@@ -11,7 +11,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: rgb(12, 12, 12);
-  font-size: 14px;
+  font-size: 12px;
   top: 0;
   width: 100%;
 }
@@ -207,7 +207,7 @@ img {
   height: 100%;
   background-color: gray;
   padding: 10px;
-  border-radius: 70px;
+  border-radius: 40px;
   box-shadow: 0 3rem 5rem rgba(182, 178, 178, 0.3);
   z-index: 10;
 }
